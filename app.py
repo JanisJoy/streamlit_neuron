@@ -67,6 +67,8 @@ def cs_sidebar():
 
     st.sidebar.markdown(f"[Chatbot](https://chatbot-neuronai.streamlit.app) by Giray.")
 
+    st.sidebar.markdown(f"Guide for app deployment [here](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app).")
+
     st.sidebar.header('Streamlit cheat sheet')
 
     st.sidebar.markdown('''
