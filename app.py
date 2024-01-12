@@ -11,7 +11,7 @@ v1.25.0
 20 August 2023
 
 Modified by:
-    @janisjoy69 : https://gihub.com/janisjoy69
+    @JanisJoy : https://gihub.com/janisjoy
 
 Author:
     @daniellewisDL : https://github.com/daniellewisDL
@@ -73,6 +73,8 @@ def cs_sidebar():
 
     st.sidebar.markdown(f"Start the challenge [here](https://30days-tmp.streamlit.app).")
 
+    st.sidebar.markdown(f"[For Inspiration you can look at some other demos](https://streamlit.io/gallery)")
+    
     st.sidebar.header('Streamlit cheat sheet')
 
     st.sidebar.markdown('''
