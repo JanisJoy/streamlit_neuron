@@ -11,7 +11,7 @@ v1.25.0
 20 August 2023
 
 Modified by:
-    @janisjoy69 : https://gihub.com/janisjoy69
+    @JanisJoy : https://gihub.com/janisjoy
 
 Author:
     @daniellewisDL : https://github.com/daniellewisDL
