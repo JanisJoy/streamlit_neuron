@@ -144,7 +144,8 @@ st.write(['st', 'is <', 3]) # see *
 st.title('My title')
 st.header('My header')
 st.subheader('My sub (like Display text)')
-# like st.write(), but with horizontal rule after (what you can see in the whole cheat sheet):
+# like st.write(), but with horizontal rule after 
+# (what you can see in the whole cheat sheet):
 st.code('for i in range(8): foo()')
 
 # * optional kwarg unsafe_allow_html = True
