@@ -69,6 +69,10 @@ def cs_sidebar():
 
     st.sidebar.markdown(f"Guide for app deployment [here](https://docs.streamlit.io/streamlit-community-cloud/deploy-your-app).")
 
+    st.sidebar.header('30 Days of Streamlit')
+
+    st.sidebar.markdown(f"Start the challenge [here](https://30days-tmp.streamlit.app).")
+
     st.sidebar.header('Streamlit cheat sheet')
 
     st.sidebar.markdown('''
