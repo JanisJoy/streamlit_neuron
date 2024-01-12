@@ -1,5 +1,11 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/master/app.py)
 
+# Streamlit workshop by neuron.ai
+
+Original author: https://github.com/JanisJoy/streamlit_neuron
+
+This application is a variation of the official cheat sheet for streamlit created for neuron.ai's first workshop!
+
 # Streamlit Cheat Sheet
 
 App to summarise streamlit docs v1.25.0
@@ -29,7 +35,7 @@ A clean venv with just pip and then Streamlit
 [Streamlit Cheat Sheet - Sharing for Streamlit](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/master/app.py)
 
 # Show me
-![Streamlit Cheat Sheet](https://github.com/daniellewisDL/streamlit-cheat-sheet/blob/master/streamlit-cheat-sheet.png)
+![Streamlit Cheat Sheet](streamlit-cheat-sheet.png)
 
 ---
 

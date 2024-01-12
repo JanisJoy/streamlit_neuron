@@ -55,12 +55,18 @@ def img_to_bytes(img_path):
 
 def cs_sidebar():
     st.sidebar.markdown(
-        '''[<img src='data:image/png;base64,{}' class='img-fluid' width=32 height=32>](https://streamlit.io/)'''.format(
-            img_to_bytes("logomark_website.png")), unsafe_allow_html=True)
-    st.sidebar.markdown(
         '''[<img src='data:image/png;base64,{}' class='img-fluid' width=160 height=64>](
         https://https://neuron-ai.at/)'''.format(
             img_to_bytes("neuron.png")), unsafe_allow_html=True)
+
+    st.sidebar.header('Other apps from neuron.ai:')
+
+    st.sidebar.markdown(f"[Convolution](https://convolution-neuronai.streamlit.app) by Jan.")
+
+    st.sidebar.markdown(f"[Image Manipulation and Tabular Data](https://data-neuronai.streamlit.app) by Giray.")
+
+    st.sidebar.markdown(f"[Chatbot](https://chatbot-neuronai.streamlit.app) by Giray.")
+
     st.sidebar.header('Streamlit cheat sheet')
 
     st.sidebar.markdown('''
