@@ -84,6 +84,10 @@ def cs_sidebar():
 >>> import streamlit as st
 ''')
 
+    st.sidebar.markdown('Official streamlit introduction demo:')
+
+    st.sidebar.code('$ streamlit hello')
+
     st.sidebar.markdown('__Add widgets to sidebar__')
     st.sidebar.code('''
 # Just add it after st.sidebar:
