@@ -59,7 +59,7 @@ def cs_sidebar():
             img_to_bytes("logomark_website.png")), unsafe_allow_html=True)
     st.sidebar.markdown(
         '''[<img src='data:image/png;base64,{}' class='img-fluid' width=160 height=64>](
-        https://https://neuron-ai.at/)'''.format(
+        https://neuron-ai.at/)'''.format(
             img_to_bytes("neuron.png")), unsafe_allow_html=True)
     st.sidebar.header('Streamlit cheat sheet')
 
